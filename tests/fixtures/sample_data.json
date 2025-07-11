@@ -1,0 +1,22 @@
+[
+    {
+        "id": "sample-task-1",
+        "title": "Exemple de tâche",
+        "description": "Description de la tâche d'exemple",
+        "priority": "high",
+        "status": "todo",
+        "created_at": "2023-01-01T10:00:00",
+        "completed_at": null,
+        "project_id": "project-1"
+    },
+    {
+        "id": "sample-task-2",
+        "title": "Tâche terminée",
+        "description": "Une tâche qui a été terminée",
+        "priority": "medium",
+        "status": "done",
+        "created_at": "2023-01-01T09:00:00",
+        "completed_at": "2023-01-01T15:30:00",
+        "project_id": null
+    }
+]
